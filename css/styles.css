@@ -885,7 +885,6 @@ button.cta-start:hover{
     margin-top: 34px;
     font-weight: 200;
     text-decoration: none;
-    text-align: left;
     white-space: normal;
     min-width: auto;
 }
@@ -1567,6 +1566,7 @@ footer{
     font-size: 28px;
     line-height: 35px;
     margin-bottom: 25px;
+    height: auto;
   }
   
   .blog-grid {
@@ -1725,3 +1725,4 @@ footer{
     margin-right: auto;
   }
 }
+
